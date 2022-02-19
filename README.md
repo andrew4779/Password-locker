@@ -1,5 +1,5 @@
 # PASSWORD LOCKER
-#### Python Console Application
+#### Python Application
 #### By **Andrew kimani**
 ## Description
 A python console application that lets one store various accounts with the username and password
