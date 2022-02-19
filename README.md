@@ -18,6 +18,9 @@ No live link at the moment (console application)
 ## Technologies Used
 * Python
 ## Support and contact details
+<a href="https://app.codiga.io/public/user/github/andrew4779">
+   <img src="https://api.codiga.io/public/badge/user/github/andrew4779?style=light" alt="codiga badge" />
+</a>
 andrewkimani02@gmail.com
 ### License
 This is under the [MIT](LICENSE) license
